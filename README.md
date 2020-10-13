@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="./web/src/images/logo.png" alt="Happy" width="280"/>
+   <img src="./web/src/images/Logo.png" alt="Happy" width="280"/>
 </p>
 
 > :rocket: Project made in Next Level Week 3. Happy is a project that aims to connect people who are willing to help and visit a orphanage.
