@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="./web/public/images/logo.svg" alt="Proffy" width="280"/>
+   <img src="./web/public/images/logo.svg" alt="Happy" width="280"/>
 </p>
 
 > :rocket: Project made in Next Level Week 3 to connect  and students
@@ -20,7 +20,7 @@ This project was made using the follow technologies:
 # :construction_worker: How to run
 ```bash
 # Clone Repository
-$ git clone https://github.com/Diegobbrito/nlw2.git
+$ git clone https://github.com/Diegobbrito/happy-omni.git
 ```
 ### 📦 Run API
 
